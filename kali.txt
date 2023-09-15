@@ -1,0 +1,5 @@
+http.kali.org
+cdimage.kali.org
+mirror.lagoon.nc
+kali.download
+cdnimage.kali.org
